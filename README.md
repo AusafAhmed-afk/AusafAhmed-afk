@@ -25,14 +25,15 @@
 
 ---
 
-### 🐍 Python Development  
-- **Banking Management System (Tkinter + SQLite)** – GUI-based app with account creation, deposits, withdrawals, and balance inquiry  
+### 🐍 Python Development   
 - **Movie Recommendation System 🎬 (Pandas)** – Interactive system recommending movies by genre, mood, and other filters  
 - **Rock-Paper-Scissors Game 🎮** – Retro-style pixelated game with start/exit screen, background theme, and enhanced UI  
 
 ---
 
 ### 🌐 Other Academic & Project Experience  
+
+- **Banking Management System (Python + Tkinter + SQLite)** – GUI-based app with account creation, deposits, withdrawals, and balance inquiry 
 - **Full-Stack Development (ASP.NET Core MVC + SQL)** → Student Management System with CRUD, dashboards, Excel export, clean MVC structure  
 - **Database Management (MySQL)** → Efficient student data storage and querying system  
 - **Java OOP Project** → Modular Student Management System using OOP concepts  
