@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=ausafahmed-afk&label=Profile%20views&color=0e75b6&style=flat" alt="ausafahmed-afk" />
 </p>
 
-- 🔭 I’m currently working on **building data-driven applications using Python & Pandas, to sharpen my skills as a data scientist**  
-- 🌱 I’m currently learning **Python, Numpy, Pandas**  
+- 🔭 I’m currently working on **building data-driven projects using Python , to sharpen my skills as a data scientist**  
+- 🌱 I’m currently learning **Python, Numpy, Pandas , Seaborn , Matplotlib etc **  
 - 📫 How to reach me: **ausafahmed0348@gmail.com**  
 
 ---
