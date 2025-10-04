@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on **building data-driven projects using Python , to sharpen my skills as a data scientist**  
-- 🌱 I’m currently learning **Python, Numpy, Pandas , Seaborn , Matplotlib etc **  
+- 🌱 I’m currently learning Python, Numpy, Pandas , Seaborn , Matplotlib etc  
 - 📫 How to reach me: **ausafahmed0348@gmail.com**  
 
 ---
