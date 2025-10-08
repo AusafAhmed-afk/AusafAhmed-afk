@@ -15,16 +15,6 @@
 
 ---
 
-## 💼 About My Experience  
-
-### 🏢 Professional  
-- **Project Manager Intern @ Excelerate (Aug – Sep)**  
-  - Coordinated project timelines, deliverables, and team communication  
-  - Assisted in executing experiential learning events and software solutions  
-  - Gained exposure to professional project management practices  
-
----
-
 ### 🐍 Python Development   
 - **Movie Recommendation System 🎬 (Pandas)** – Interactive system recommending movies by genre, mood, and other filters  
 - **Rock-Paper-Scissors Game 🎮** – Retro-style pixelated game with start/exit screen, background theme, and enhanced UI  
