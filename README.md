@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ausaf Ahmed</h1>
-<h3 align="center"> Aspiring Python Developer / Software Engineer / AI and Data Enthusiast </h3> 
+<h3 align="center">Aspiring Data Scientist | Learning Applied Data Science | Passionate about Python & AI </h3> 
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFpN2ZpdnUxZnlqb3Jma3NucGd1cWl0cHc4dTV1d2t1ZjF5a2xmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
