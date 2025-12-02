@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ausaf Ahmed</h1>
-<h3 align="center">Aspiring Data Scientist | Learning Applied Data Science | Passionate about Python & AI </h3> 
+<h3 align="center">Aspiring Data Scientist | Passionate About Turning Data Into Insights </h3> 
 
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFpN2ZpdnUxZnlqb3Jma3NucGd1cWl0cHc4dTV1d2t1ZjF5a2xmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" />
@@ -9,8 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=ausafahmed-afk&label=Profile%20views&color=0e75b6&style=flat" alt="ausafahmed-afk" />
 </p>
 
-- 🔭 I’m currently working on **building data-driven projects using Python , to sharpen my skills as a data scientist**  
-- 🌱 I’m currently learning Python, Numpy, Pandas , Seaborn , Matplotlib etc  
+- 🔭 I’m currently working on ** my Data Science projects soon i will be Sharing them . **  
+- 🌱 I’m currently learning Machine Learning and Statistics   
 - 📫 How to reach me: **ausafahmed0348@gmail.com**  
 
 ---
