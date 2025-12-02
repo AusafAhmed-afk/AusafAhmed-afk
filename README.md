@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ausafahmed-afk&label=Profile%20views&color=0e75b6&style=flat" alt="ausafahmed-afk" />
 </p>
 
-- 🔭 I’m currently working on ** my Data Science projects soon i will be Sharing them . **  
+- 🔭 I’m currently working on **my Data Science projects soon i will be Sharing them.**  
 - 🌱 I’m currently learning Machine Learning and Statistics   
 - 📫 How to reach me: **ausafahmed0348@gmail.com**  
 
