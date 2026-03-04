@@ -16,8 +16,9 @@
 ---
 
 ### 🐍 Python & Data Science Projects
-- **Movie Recommendation System 🎬 (Pandas, NumPy)** – Interactive system recommending movies by genre, mood, and other filters  
+- **Telco Customer Churn Prediction 📊 (XGBoost, Scikit-learn, Pandas, NumPy)** – Predicts customer churn using machine learning, feature engineering, and model evaluation for telecom datasets  
 - **Rock-Paper-Scissors Game 🎮** – Retro-style pixelated game with start/exit screen, background theme, and enhanced UI  
+- **Movie Recommendation System 🎬** – Interactive system recommending movies by genre, mood, and other filters (basic Python project)  
 
 ---
 
@@ -56,6 +57,12 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/ramonhagenaars/xgboost-logo/main/xgboost-logo.svg" alt="xgboost" width="40" height="40"/>
+  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
   </a>
@@ -76,7 +83,7 @@
 ---
 
 ### 📝 Project Languages Used
-- **Python (NumPy, Pandas, Matplotlib)** – Banking Management System, Movie Recommendation System, Rock-Paper-Scissors Game  
+- **Python (NumPy, Pandas, Matplotlib, Scikit-learn, XGBoost)** – Telco Churn Prediction, Banking Management System, Rock-Paper-Scissors Game  
 - **SQL (SQLite / MySQL)** – Database management projects  
 - **Java** – OOP-based Student Management System  
 
