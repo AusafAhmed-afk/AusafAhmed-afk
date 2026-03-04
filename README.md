@@ -60,11 +60,8 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://xgboost.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ramonhagenaars/xgboost-logo/main/xgboost-logo.svg" alt="xgboost" width="40" height="40"/>
-  </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" alt="Power BI" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
